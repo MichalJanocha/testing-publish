@@ -1,6 +1,6 @@
 {
   "name": "@tcp/new-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "d004e8be0d64df677ef2b604460b321d340a26e4"
+  "gitHead": "2570495db560e576a6e938d06c0a406bac43731f"
 }
